@@ -1,0 +1,15 @@
+{
+  "name": "vuepro1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-client": "cd PROJECT1-SEC1-MuMuekKungHungUnTunTomNueng && npm install",
+    "build-client": "cd PROJECT1-SEC1-MuMuekKungHungUnTunTomNueng && npm run build",
+    "start-client" :"cd PROJECT1-SEC1-MuMuekKungHungUnTunTomNueng && npm run dev"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
